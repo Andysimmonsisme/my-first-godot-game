@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://e68mdxwpknqt"]
+
+[sub_resource type="SystemFont" id="SystemFont_5j5sv"]
+subpixel_positioning = 0
+
+[sub_resource type="LabelSettings" id="LabelSettings_e71de"]
+font = SubResource("SystemFont_5j5sv")
+outline_size = 3
+outline_color = Color(0, 0, 0, 1)
+
+[node name="Label" type="Label"]
+z_index = 6
+offset_right = 40.0
+offset_bottom = 23.0
+text = "You died!"
+label_settings = SubResource("LabelSettings_e71de")
