@@ -11,6 +11,10 @@ A fun little 2D platformer where you traverse perilous different landscapes as a
 ✅ Old school arcade feel 
 
 ## 🎮 How to Play  
+### Web-based
+Visit https://my-first-godot-game.netlify.app/
+
+### Download
 1️⃣ **Download the game** from https://github.com/Andysimmonsisme/my-first-godot-game/releases/tag/v1.0.0 or build from source  
 2️⃣ **Run the game**:  
    - Windows: Double-click `MyFirstGodotGame.exe`  
